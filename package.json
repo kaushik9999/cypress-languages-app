@@ -12,8 +12,9 @@
     "test": "jest",
     "coverage": "jest --coverage",
     "cy:run": "cypress run",
-    "test:e2e": "npx cypress run --spec '**/*.cy.js'",
-    "testing":"start-server-and-test dev  http://localhost:3000 cy:run"
+    "test:e2ee": "npx cypress run --spec '**/*.cy.js'",
+    "test:e2e":"start-server-and-test dev  http://localhost:3000 cy:run",
+    "test-ci": "npm run test:e2e && npm run test"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.7.0",
