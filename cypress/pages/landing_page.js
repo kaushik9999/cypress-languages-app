@@ -5,6 +5,7 @@ class LandingPage {
         return cy.get(selectors.landing_page.login_btn);
     }
     clickLoginBtn() {
+        
         cy.get(selectors.landing_page.login_btn).click();
     }
 
