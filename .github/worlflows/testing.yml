@@ -2,9 +2,9 @@ name: unit tests
 run-name: ${{ github.actor }}
 on: 
     push:
-        branches: [ main ]
+        branches: [ master ]
     pull_request:
-        branches: [ main ]
+        branches: [ master ]
 jobs:
   tests:
     runs-on: ubuntu-latest
