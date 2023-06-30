@@ -1,0 +1,320 @@
+{
+    "canada": {
+        "languages": [
+            "English",
+            "en",
+            "French",
+            "fr"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore",
+            "France",
+            "Canada",
+            "Democratic Republic of the Congo",
+            "Madagascar",
+            "Cameroon",
+            "Ivory Coast",
+            "Niger",
+            "Burkina Faso",
+            "Mali",
+            "Senegal"
+        ]
+    },
+    "portugal": {
+        "languages": [
+            "Portuguese",
+            "pt"
+        ],
+        "countries": [
+            "Portugal",
+            "Brazil",
+            "Angola",
+            "Mozambique",
+            "Guinea-Bissau",
+            "East Timor",
+            "Equatorial Guinea",
+            "Macau",
+            "Cape Verde",
+            "São Tomé and Príncipe"
+        ]
+    },
+    "chile": {
+        "languages": [
+            "Spanish",
+            "es"
+        ],
+        "countries": [
+            "Spain",
+            "Mexico",
+            "Argentina",
+            "Colombia",
+            "Peru",
+            "Venezuela",
+            "Chile",
+            "Ecuador",
+            "Guatemala",
+            "Cuba"
+        ]
+    },
+    "united_kingdom": {
+        "languages": [
+            "English",
+            "en"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore"
+        ]
+    },
+    "australia": {
+        "languages": [
+            "English",
+            "en"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore"
+        ]
+    },
+    "united_states": {
+        "languages": [
+            "English",
+            "en"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore"
+        ]
+    },
+    "ireland": {
+        "languages": [
+            "English",
+            "en"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore"
+        ]
+    },
+    "peru": {
+        "languages": [
+            "Spanish",
+            "es"
+        ],
+        "countries": [
+            "Spain",
+            "Mexico",
+            "Argentina",
+            "Colombia",
+            "Peru",
+            "Venezuela",
+            "Chile",
+            "Ecuador",
+            "Guatemala",
+            "Cuba"
+        ]
+    },
+    "iraq": {
+        "languages": [
+            "Arabic",
+            "ar"
+        ],
+        "countries": [
+            "Egypt",
+            "Algeria",
+            "Sudan",
+            "Iraq",
+            "Morocco",
+            "Saudi Arabia",
+            "Yemen",
+            "Syria",
+            "Tunisia",
+            "United Arab Emirates"
+        ]
+    },
+    "sudan": {
+        "languages": [
+            "Arabic",
+            "ar"
+        ],
+        "countries": [
+            "Egypt",
+            "Algeria",
+            "Sudan",
+            "Iraq",
+            "Morocco",
+            "Saudi Arabia",
+            "Yemen",
+            "Syria",
+            "Tunisia",
+            "United Arab Emirates"
+        ]
+    },
+    "ca": {
+        "languages": [
+            "English",
+            "en",
+            "French",
+            "fr",
+            "Portuguese",
+            "pt",
+            "Italian",
+            "it",
+            "Mandarin Chinese",
+            "zh"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore",
+            "France",
+            "Canada",
+            "Democratic Republic of the Congo",
+            "Madagascar",
+            "Cameroon",
+            "Ivory Coast",
+            "Niger",
+            "Burkina Faso",
+            "Mali",
+            "Senegal",
+            "Portugal",
+            "Brazil",
+            "Angola",
+            "Mozambique",
+            "Guinea-Bissau",
+            "East Timor",
+            "Equatorial Guinea",
+            "Macau",
+            "Cape Verde",
+            "São Tomé and Príncipe",
+            "Italy",
+            "Switzerland",
+            "San Marino",
+            "Vatican City",
+            "Slovenia",
+            "Croatia",
+            "China",
+            "Taiwan",
+            "Singapore",
+            "Malaysia",
+            "Hong Kong",
+            "Macau"
+        ]
+    },
+    "can": {
+        "languages": [
+            "English",
+            "en",
+            "French",
+            "fr",
+            "Italian",
+            "it"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore",
+            "France",
+            "Canada",
+            "Democratic Republic of the Congo",
+            "Madagascar",
+            "Cameroon",
+            "Ivory Coast",
+            "Niger",
+            "Burkina Faso",
+            "Mali",
+            "Senegal",
+            "Italy",
+            "Switzerland",
+            "San Marino",
+            "Vatican City",
+            "Slovenia",
+            "Croatia"
+        ]
+    },
+    "cana": {
+        "languages": [
+            "English",
+            "en",
+            "French",
+            "fr"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "South Africa",
+            "India",
+            "Jamaica",
+            "Singapore",
+            "France",
+            "Canada",
+            "Democratic Republic of the Congo",
+            "Madagascar",
+            "Cameroon",
+            "Ivory Coast",
+            "Niger",
+            "Burkina Faso",
+            "Mali",
+            "Senegal"
+        ]
+    }
+}
